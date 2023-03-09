@@ -1,0 +1,6 @@
+C:\Users\DANG XUAN BACH\source\repos\DaXuaBa\DTO1\bin\Debug\DTO.exe.config
+C:\Users\DANG XUAN BACH\source\repos\DaXuaBa\DTO1\bin\Debug\DTO.exe
+C:\Users\DANG XUAN BACH\source\repos\DaXuaBa\DTO1\bin\Debug\DTO.pdb
+C:\Users\DANG XUAN BACH\source\repos\DaXuaBa\DTO1\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\DANG XUAN BACH\source\repos\DaXuaBa\DTO1\obj\Debug\DTO.exe
+C:\Users\DANG XUAN BACH\source\repos\DaXuaBa\DTO1\obj\Debug\DTO.pdb

@@ -1,0 +1,14 @@
+C:\Users\DANG XUAN BACH\source\repos\DaXuaBa\BUS11\bin\Debug\DAO.exe
+C:\Users\DANG XUAN BACH\source\repos\DaXuaBa\BUS11\bin\Debug\DTO.exe
+C:\Users\DANG XUAN BACH\source\repos\DaXuaBa\BUS11\bin\Debug\DAO.pdb
+C:\Users\DANG XUAN BACH\source\repos\DaXuaBa\BUS11\bin\Debug\DAO.exe.config
+C:\Users\DANG XUAN BACH\source\repos\DaXuaBa\BUS11\bin\Debug\DTO.pdb
+C:\Users\DANG XUAN BACH\source\repos\DaXuaBa\BUS11\bin\Debug\DTO.exe.config
+C:\Users\DANG XUAN BACH\source\repos\DaXuaBa\BUS11\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\DANG XUAN BACH\source\repos\DaXuaBa\BUS11\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\DANG XUAN BACH\source\repos\DaXuaBa\BUS11\bin\Debug\BUS.exe.config
+C:\Users\DANG XUAN BACH\source\repos\DaXuaBa\BUS11\bin\Debug\BUS.exe
+C:\Users\DANG XUAN BACH\source\repos\DaXuaBa\BUS11\bin\Debug\BUS.pdb
+C:\Users\DANG XUAN BACH\source\repos\DaXuaBa\BUS11\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\DANG XUAN BACH\source\repos\DaXuaBa\BUS11\obj\Debug\BUS.exe
+C:\Users\DANG XUAN BACH\source\repos\DaXuaBa\BUS11\obj\Debug\BUS.pdb
